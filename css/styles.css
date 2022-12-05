@@ -1,0 +1,154 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+    font-size: large;
+    font-weight: bold;
+}
+h1{
+    font: "Montserrat-Black";
+    font-size: 4.5rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar-brand{
+    padding-left: 12%;
+    font-family: "Ubuntu";
+    font-size: 2rem;
+}
+#navbar{
+    padding: 0 0 4.5rem;
+}
+#newdiv{
+    padding-left: 12%;
+}
+#bt1{
+    margin: 15px;
+    margin-left: 0px;
+}
+#newul{
+    margin-right: 120px;
+}
+.nav-item{
+    padding: 1.1rem;
+}
+body{
+    font-family: "Montserrat";
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+.title-img{
+    margin-left: 45px;
+    width: 40%;
+    transform: rotate(25deg);
+    /* position: absolute; */
+}
+#features{
+    padding: 7% 15%;
+    margin: 5% 2%;
+    /* background-color: #fff; */
+    /* position: relative; */
+    /* z-index: 1; */
+}
+.box{
+    text-align: center;
+    padding: 6%;
+}
+h2{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+h3{
+    font-family: "Montserrat-Bold";
+    font-size: 1.5rem;
+    font-weight: bold;
+    /* padding-right: 22px; */
+}
+p{
+    color: #8f8f8f;
+}
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+.testimonial-img{
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3px;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+    padding: 100px;
+}
+.dead{
+    font-weight: bold;
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+@media (max-width:1028px){
+    #title{
+        text-align: center;
+    }
+    .title-img{
+        transform: rotate(0);
+    }
+}
+#cta{
+    background-color:#ff4c68;
+    padding: 12% 15%;
+    color: #fff;
+    text-align: center;
+    
+}
+.dead1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+#btnn1{
+    margin: 25px;
+}
+#footer{
+    padding: 8% 40%;
+    /* padding-bottom: 5px; */
+    margin: 0px;
+    text-align: center;
+}
+#ftd{
+    margin: 15px;
+    color: black;
+}
+#ftd:hover{
+    color:blue;
+}
+.ish{
+    font-size: 25px;
+}
+#copy{
+    margin: 2px;
+    padding-top: 10px;
+}
